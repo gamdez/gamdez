@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @gamdez
-- 👀 I’m interested in nature.
-- 🌱 I’m currently learning Python
+Hi!
 
+gamdez.
+M.V.Z. 
+
+Working on personal projects for biomass generation (animal, plants).
 
 
 <!---
