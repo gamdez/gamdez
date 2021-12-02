@@ -1,10 +1,6 @@
-Hi!
+Bienvenidos a mi github. Welcome.
 
-**gamdez**
-
-**M.V.Z. **
-------
-Working on personal projects for biomass generation (animal, plants).
+Studying/working on personal projects involved with biomass generation.
 
 
 <!---
