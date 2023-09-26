@@ -1,7 +1,5 @@
-Bienvenidos a mi github. Welcome.
-
-Studying/working on personal projects involved with biomass generation.
-
+Hello there!
+Just learning and working on some personal projects here :)
 
 <!---
 gamdez/gamdez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
